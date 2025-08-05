@@ -1,4 +1,6 @@
 <?php 
+
+// changes needs to be applied here...
 session_start();
 include('header.php');
 $loginError = '';
